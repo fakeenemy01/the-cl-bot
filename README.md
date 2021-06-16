@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>тℏḙ-ḉℓ-♭✺т 🇮🇳</b>
+  <b>тℏḙ-ḉℓ-♭✺т 😁🙏📜</b>
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ тℏḙ-ḉℓ-♭✺т ⚡</b>
 </h6>
 
 <h3 align="center">
@@ -26,8 +26,8 @@
 
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/hellbot_chat)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/its_hellbot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://telegram.me/the_cl_bot_support)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://telegram.me/the_cl_bot)
 
 ------
 ## Deploy 🚀
@@ -51,10 +51,10 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/TheVaders/InVade.git`
+`git clone https://github.com/fakeenemy01/the-cl-bot`
 - Open Cloned Folder.
 
-`cd InVade`
+`cd the-cl-bot`
 - Create VirtualEnv.
 
 `virtualenv -p /usr/bin/python3 venv`
@@ -63,11 +63,11 @@
 - Install Requirements.
 
 `pip install -U -r requirements.txt`
-- Generate HELLBOT SESSION.
+- Generate CL_BOT SESSION.
 
-`python hell_string.py`
+`python cl_string.py`
 - Create config.py or rename ex_config.py to config.py. Fill All The Required Variables.
-- Finally Start Hêllẞø† By
+- Finally Start тℏḙ-ḉℓ-♭✺т By
 
 `bash start.sh`
 
@@ -76,13 +76,13 @@
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `HELLBOT_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `THE_CL_BOT_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
 - `LOGGER_ID`  =  Make A Channel And Get it's ID.
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
 
 ------
-## HellBot Session
+## Cl_Bot Session
 
 ### Repl
 - Open Repl Link.
@@ -120,8 +120,8 @@
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 [The-HellBot](https://github.com/The-HellBot)
-Project [HellBot](https://github.com/The-HellBot/HellBot) is free software: you can redistribute it and/or modify
+Copyright (C) 2021 [The-Cl_Bot](https://github.com/FakeEnemy01/the-cl-bot)
+Project [The_Cl_Bot](https://github.com/fakeenemy01/the-cl-bot) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
