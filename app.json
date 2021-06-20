@@ -11,16 +11,16 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/The-HellBot/HellBot/",
-  "website": "https://github.com/The-HellBot/",
-  "success_url": "https://t.me/The_HellBot",
+  "repository": "https://github.com/fakeenemy01/The-cl-bot/",
+  "website": "https://github.com/fakeenemy01/The-cl-bot/",
+  "success_url": "https://t.me/The_cl_bot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
     "YOUR_NAME": {
-      "description": "Fill Your Telegram Name. Default Value is Hêll",
+      "description": "Fill Your Telegram Name. Default Value is The-cl-bot",
       "value": "『ℌєℓℓ』",
       "required": false
     },
@@ -35,7 +35,7 @@
       "required": false
     },
     "ABUSE": {
-      "description": "Leave it blank if you dont want Profanity in HellBot. Else Fill ON.",
+      "description": "Leave it blank if you dont want Profanity in Cl_Bot. Else Fill ON.",
       "value": "ON",
       "required": false
     },
@@ -55,7 +55,7 @@
     },
     "EMOJI_IN_HELP": {
       "description": "A emoji to display in help command",
-      "value": "🔸"
+      "value": ":)"
     },
     "BUTTONS_IN_HELP": {
       "description": "No.of buttons to display in help menu.",
@@ -105,12 +105,12 @@
       "value": ""
     },
     "YOUR_CHANNEL": {
-      "description": "Fill your channel username(without @) to get this displayed on your Hell Alive.",
+      "description": "Fill your channel username(without @) to get this displayed on your cl Alive.",
       "value": "",
       "required": false
     },
     "YOUR_GROUP": {
-      "description": "Fill your group username(without @) to get this displayed on your Hell Alive.",
+      "description": "Fill your group username(without @) to get this displayed on your cl Alive.",
       "value": "",
       "required": false
     },
